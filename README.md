@@ -1,6 +1,11 @@
 # COVID-19-Data-Pipeline
 
-### Objective
+**Team Members**<br />
+Jui Ashinkar <br />
+Swarna Ananthaswamy <br />
+Uthsav Shetty <br />
+
+### Objective <br />
 
 *Why?*
 
