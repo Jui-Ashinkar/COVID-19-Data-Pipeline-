@@ -1,6 +1,6 @@
 # COVID-19-Data-Pipeline
 
-**Team Members**<br />
+### Team Members <br />
 Jui Ashinkar <br />
 Swarna Ananthaswamy <br />
 Uthsav Shetty <br />
