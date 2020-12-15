@@ -25,3 +25,9 @@ Uthsav Shetty <br />
 
 *How?*
 - Created a pipeline on Talend Pipeline Designer by ingesting/integrating from various sources like Google Big Query, Stitch and other flat files to generate BI dashboards.
+
+### Block Diagram
+![image](https://user-images.githubusercontent.com/47194856/102174200-df600700-3e6a-11eb-9a2c-9fe644964a25.png)
+
+
+
