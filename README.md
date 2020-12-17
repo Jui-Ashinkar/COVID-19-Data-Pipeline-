@@ -29,5 +29,9 @@ Uthsav Shetty <br />
 ### Block Diagram
 ![image](https://user-images.githubusercontent.com/47194856/102174200-df600700-3e6a-11eb-9a2c-9fe644964a25.png)
 
+### Data Model
+![image](https://user-images.githubusercontent.com/47194856/102462098-5b974d80-4017-11eb-8acf-6ccc9ac4af0f.png)
+
+
 
 
