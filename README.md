@@ -15,7 +15,9 @@ Uthsav Shetty <br />
  
  *What?*
 - Build a dashboard for COVID-19 data. This contains datasets of daily time-series data related to COVID-19 for over 20,000 distinct locations around the world. The data is at the spatial resolution of states/provinces for most regions and at county/municipality resolutions for the United States. 
-- Developed multidimensional data model and enhanced it to meet growing requirements
+- Developed multidimensional data model and enhanced it to meet growing requirements.
+- Performed data profiling, data cleansing & data quality on the open COVID-19 dataset from the Google Big Query, Stitch & other flat-files.
+- Implemented source system analysis on data sources and compared operational efficiency between Google Big Query and Azure.
 
 *Where?*
 - This will be useful for Health and Government officials when they have to make decisions based on results and come up with a strategy to stop this virus.
