@@ -29,11 +29,16 @@ Uthsav Shetty <br />
 - Created a pipeline on Talend Pipeline Designer by ingesting/integrating from various sources like Google Big Query, Stitch and other flat files to generate BI dashboards.
 
 ### Block Diagram
-![image](https://user-images.githubusercontent.com/47194856/102174200-df600700-3e6a-11eb-9a2c-9fe644964a25.png)
+<img src="https://user-images.githubusercontent.com/47194856/102174200-df600700-3e6a-11eb-9a2c-9fe644964a25.png" width="800" height="500" />
 
 ### Data Model
-![image](https://user-images.githubusercontent.com/47194856/102462098-5b974d80-4017-11eb-8acf-6ccc9ac4af0f.png)
+<img src="https://user-images.githubusercontent.com/47194856/102462098-5b974d80-4017-11eb-8acf-6ccc9ac4af0f.png" width="800" height="500" />
 
 
+### COVID-19 Dashboard
+<img src="https://user-images.githubusercontent.com/47194856/103575666-10e35580-4ea0-11eb-9ffd-9ddeb6e8bb14.png" width="800" height="500" />
 
+
+### Talend Pipeline Designer Job Screenshot
+<img src="https://user-images.githubusercontent.com/47194856/103576852-c8c53280-4ea1-11eb-9480-bdd1fb7d5f68.png" width="800" height="500" />
 
